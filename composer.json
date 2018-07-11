@@ -1,0 +1,15 @@
+{
+    "name": "itboye/component_message",
+    "description": "",
+	"type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "by\\component\\message\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4",
+        "itboye/architecture": "1.0.*"
+    }
+}
